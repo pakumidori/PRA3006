@@ -1,0 +1,4412 @@
+[
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "lithium",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-t-x",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "lithium",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "2c-x",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "5-meo-xxt",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "alcohol",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "lithium",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "amphetamines",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "amt",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "benzodiazepines",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "caffeine",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cannabis",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "lithium",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "cocaine",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "mephedrone",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "dextromethorphan",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "diphenhydramine",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "lithium",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dmt",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "lithium",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "dox",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "diphenhydramine",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ghb/gbl",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ketamine",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "lithium",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "lithium",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "lithium",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lithium",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "lithium",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "lithium",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "lithium",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "lithium",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "lithium",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "lithium",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "lithium",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lithium",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lithium",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "lithium",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "lsd",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "maois",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "lithium",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "mephedrone",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mdma",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "mephedrone",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "mephedrone",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "lithium",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mescaline",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "lithium",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mushrooms",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "mxe",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "lithium",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nbomes",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "lithium",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "nitrous",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "opioids",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "pcp",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "lithium",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "ssris",
+    "Interacting_Drug": "tramadol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "2c-t-x",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "2c-x",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "5-meo-xxt",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "alcohol",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "amphetamines",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "amt",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "benzodiazepines",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "caffeine",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "cannabis",
+    "Danger_Level": "Low Risk",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "cocaine",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "dextromethorphan",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "dmt",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "dox",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "ghb/gbl",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "ketamine",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "lithium",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "lsd",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "maois",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "mdma",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "mescaline",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "mushrooms",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "mxe",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "nbomes",
+    "Danger_Level": "Unsafe",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "nitrous",
+    "Danger_Level": "Caution",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "opioids",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "pcp",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  },
+  {
+    "Drug": "tramadol",
+    "Interacting_Drug": "ssris",
+    "Danger_Level": "Dangerous",
+    "Notes": {}
+  }
+]
