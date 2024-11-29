@@ -1,0 +1,119 @@
+[
+    {
+        "drug_title": "2C",
+        "rank": "2c is classified as a soft drug.",
+        "effects": "Experiences increased sensitivity to touch, colours, sounds, or smells, often accompanied by headaches, nausea, or vomiting.",
+        "feeling": "Feeling awake, alert, and affectionate, you may experience hallucinations."
+    },
+
+    {
+        "drug_title": "alcohols",
+        "rank": "Alcohol is classified as a soft drug.",
+        "effects": "Alcohol can cause slurred speech, blurred vision and a loss of coordination.",
+        "feeling": "Feeling sociable, relaxed, anxious and aggressive."
+    },
+
+    {
+        "drug_title": "amphetamine",
+        "rank": "Amphetamine is classified as both a hard and medical drug.",
+        "effects": "Amphetamine can make you feel more energised and alert, although it may also suppress your appetite and ability to sleep.",
+        "feeling": "Alert and energised, or agitated and anxious."
+    },
+
+    {
+        "drug_title": "benzodiazepine",
+        "rank": "Benzodiazepine is classified as both a hard and medical drug.",
+        "effects": "Benzodiazepine can cause a loss of balance and slow down your reflexes.",
+        "feeling": "Sleepy and calm, or confused and disorientated."
+    },   
+    
+    {
+        "drug_title": "caffeine",
+        "rank": "Caffeine is classified as a soft drug.",
+        "effects": "Increases alertness and reduces fatigue.",
+        "feeling": "Caffeine can improve concentration levels and reaction time, but it also increases heart and blood pressure levels."
+    },
+
+    {
+        "drug_title": "cannabis",
+        "rank": "Cannabis is classified as both a soft and medical drug.",
+        "effects": "Can make you feel sick and experience hallucinations.",
+        "feeling": "Happy and giggly, or sleepy and confused."
+    },
+
+    {
+        "drug_title": "cocaine",
+        "rank": "Cocaine is classified as a hard drug.",
+        "effects": "Increased heart rate and body temperature.",
+        "feeling": "Excited and confident or panicky and anxious, general feeling of sickness."
+    },
+
+    {
+        "drug_title": "dimethyltryptamine",
+        "rank": "Dimethyltryptamine is classified as a hard drug.",
+        "effects": "Increased heart rate and blood pressure.",
+        "feeling": "Tripped out, frightened and confused."
+    },
+
+    {
+        "drug_title": "ketamine",
+        "rank": "Ketamine is classified as both a hard and medical drug.",
+        "effects": "Memory loss, depression, nausea.",
+        "feeling": "Detached and happy or anxious and confused."
+    },
+
+    {
+        "drug_title": "lysergic acid diethylamide",
+        "rank": "lysergic acid diethylamide is classified as a hard drug.",
+        "effects": "Objects, sounds and colours are distorted and can seem disturbing.",
+        "feeling": "Energised and excited, or anxious and overwhelmed."
+    },
+
+    {
+        "drug_title": "MDMA",
+        "rank": "MDMA is classified as a hard drug.",
+        "effects": "Tingly, confused, faster heart rate, higher body temperature.",
+        "feeling": "affectionate, alert, energized and/or anxious, panicky, paranoid."
+    },
+
+
+    {
+        "drug_title": "mescaline",
+        "rank": "Mescaline is classified as a hard drug.",
+        "effects": "Vomiting, headaches, and feelings of anxiety. May cause prominent changes in visual perceptions with intense visual distortions and possible hallucinations.",
+        "feeling": "Altered state of consciousness - often described as happy, positive, enjoyable, and ‘illuminating - feeling like you are in a dream-like state."
+    },
+
+
+    {
+        "drug_title": "mephedrone",
+        "rank": "Mephedrone is classified as a hard drug.",
+        "effects": "Faster heartbeat. May cause hallucinations, nosebleeds, and even fits.",
+        "feeling": "Alert and/or paranoid, confident, affectionate and/or anxious, dizzy."
+    },
+
+
+    {
+        "drug_title": "psilocybin",
+        "rank": "Psylocibin is classified as a soft drug.",
+        "effects": "Nausea/vomiting, distortion of sound and vision - hallucinations and a feeling of detachment.",
+        "feeling": "Giggly, excited, confused and/or paranoid, anxious, overwhelmed."
+    },
+
+
+    {
+        "drug_title": "opioid",
+        "rank": "Opioids are classified as both a hard and medical drug.",
+        "effects": "Opioids can cause pain relief, euphoria, relaxation, sleepiness, and at high doses, loss of consciousness. People also report sweating, itching, dizziness and confusion, itching, and feeling or being sick.",
+        "feeling": "Euphoric, relaxed and/or confused, and sleepy."
+    },
+
+    {
+        "drug_title": "Selective serotonin reuptake inhibitor",
+        "rank": "SSRIs are classified as medical drugs.",
+        "effects": "SSRIs work by increasing the levels of serotonin in the brain, which helps regulate mood, emotion, and sleep. They are commonly prescribed to treat depression, anxiety disorders, and other mental health conditions.",
+        "feeling": "SSRIs can improve mood, reduce anxiety, and enhance emotional stability over time. Initial side effects may include nausea, headaches, drowsiness, or insomnia. These often subside as your body adjusts to the medication."
+    }
+
+
+]
