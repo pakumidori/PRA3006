@@ -12,13 +12,13 @@
     "status": "Unsafe",
     "emoji": "🆘",
     "color": "#F64141",
-    "definition": "There is considerable risk of physical harm when taking these combinations, they  should be avoided where possible."
+    "definition": "There is considerable risk of physical harm when taking these combinations, they  should be avoided to minimise harm potential."
     },
     {
     "status": "Caution",
     "emoji": "⚠️",
     "color": "#F3EF2B",
-    "definition": "These combinations are not usually physically harmful, but may produce undesirable  effects, such as physical discomfort or overstimulation. Extreme use may cause physical health issues. Synergistic effects may be unpredictable. Care should be taken when choosing to use this combination."
+    "definition": "These combinations are not usually physically harmful, but may produce undesirable  effects, such as physical discomfort or overstimulation. High-dosage use may cause physical health issues. Synergistic effects may be unpredictable. Care should be taken when choosing to use this combination."
     },
 
     {
@@ -31,7 +31,7 @@
     {
     "status": "Unknown",
     "emoji": "❓",
-    "color": "#ECBEEB",
-    "definition": "Effects are unknown."
+    "color": "#FF0000",
+    "definition": "Effects are unknown. Don't risk it..."
     }
 ]

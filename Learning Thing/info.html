@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Checker Application</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="info.css">
 </head>
 <body>
     <header class="page-header">
@@ -12,11 +12,17 @@
         <!-- Home Button -->
         <a href="index.html" class="btn">Home</a>
     </header>
-    <main class="main-content">
-        <h2>Welcome to the Information page</h2>
+    <main>
+        <div id="buttonCloud" class="button-cloud">
+            <!-- Buttons will be dynamically generated here -->
+        </div>
+        <div id="drugDisplay" class="drug-display" style="display: none;">
+            <!-- Drug information will be displayed here -->
+        </div>
     </main>
     <footer class="site-footer">
         <p> 2024 Drug Checker Project.</p>
     </footer>
+    <script src="info.js"></script>
 </body>
 </html>

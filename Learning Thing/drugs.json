@@ -31,7 +31,7 @@
   },
   {
     "Drug": "2c-t-x",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -193,7 +193,7 @@
   },
   {
     "Drug": "2C",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -355,7 +355,7 @@
   },
   {
     "Drug": "5-meo-xxt",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -511,7 +511,7 @@
   },
   {
     "Drug": "alcohols",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Dangerous",
     "Notes": {}
   },
@@ -667,7 +667,7 @@
   },
   {
     "Drug": "amphetamines",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -829,7 +829,7 @@
   },
   {
     "Drug": "amt",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -954,157 +954,157 @@
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "2c-t-x",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "2C",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "5-meo-xxt",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "alcohols",
     "Danger_Level": "Dangerous",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "amphetamines",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "amt",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "caffeine",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "cannabis",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "cocaine",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "dextromethorphan",
     "Danger_Level": "Caution",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "dimethyltryptamine",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "dox",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "ghb/gbl",
     "Danger_Level": "Dangerous",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "ketamine",
     "Danger_Level": "Caution",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "lysergic acid diethylamide",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "maois",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "MDMA",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "mescaline",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "psilocybin",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "mxe",
     "Danger_Level": "Caution",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "nbomes",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "nitrous",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "opioid",
     "Danger_Level": "Dangerous",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "pcp",
     "Danger_Level": "Unsafe",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "selective serotonin reuptake inhibitors",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
   {
-    "Drug": "benzodiazepines",
+    "Drug": "benzodiazepine drug",
     "Interacting_Drug": "tramadol",
     "Danger_Level": "Dangerous",
     "Notes": {}
@@ -1147,7 +1147,7 @@
   },
   {
     "Drug": "caffeine",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -1303,7 +1303,7 @@
   },
   {
     "Drug": "cannabis",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -1459,7 +1459,7 @@
   },
   {
     "Drug": "cocaine",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -1621,7 +1621,7 @@
   },
   {
     "Drug": "dextromethorphan",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Caution",
     "Notes": {}
   },
@@ -1789,7 +1789,7 @@
   },
   {
     "Drug": "dimethyltryptamine",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -1951,7 +1951,7 @@
   },
   {
     "Drug": "dox",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -2113,7 +2113,7 @@
   },
   {
     "Drug": "ghb/gbl",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Dangerous",
     "Notes": {}
   },
@@ -2275,7 +2275,7 @@
   },
   {
     "Drug": "ketamine",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Caution",
     "Notes": {}
   },
@@ -2509,7 +2509,7 @@
   },
   {
     "Drug": "lysergic acid diethylamide",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -2671,7 +2671,7 @@
   },
   {
     "Drug": "maois",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -2827,7 +2827,7 @@
   },
   {
     "Drug": "MDMA",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -3007,7 +3007,7 @@
   },
   {
     "Drug": "mescaline",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -3169,7 +3169,7 @@
   },
   {
     "Drug": "psilocybin",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -3331,7 +3331,7 @@
   },
   {
     "Drug": "mxe",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Caution",
     "Notes": {}
   },
@@ -3487,7 +3487,7 @@
   },
   {
     "Drug": "nbomes",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -3649,7 +3649,7 @@
   },
   {
     "Drug": "nitrous",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -3811,7 +3811,7 @@
   },
   {
     "Drug": "opioid",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Dangerous",
     "Notes": {}
   },
@@ -3967,7 +3967,7 @@
   },
   {
     "Drug": "pcp",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Unsafe",
     "Notes": {}
   },
@@ -4123,7 +4123,7 @@
   },
   {
     "Drug": "selective serotonin reuptake inhibitors",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Low Risk",
     "Notes": {}
   },
@@ -4285,7 +4285,7 @@
   },
   {
     "Drug": "tramadol",
-    "Interacting_Drug": "benzodiazepines",
+    "Interacting_Drug": "benzodiazepine drug",
     "Danger_Level": "Dangerous",
     "Notes": {}
   },
