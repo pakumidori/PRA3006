@@ -5,50 +5,50 @@
     "status": "Dangerous",
     "emoji": "☠️",
     "color": "#EB2727",
-    "definition": "These combinations are considered extremely harmful and should always be avoided. Reactions to these drugs taken in combination are highly unpredictable and have a potential to cause death.",
+    "definition": "These combinations are considered extremely harmful and should always be avoided. Reactions to these drugs taken in combination are highly unpredictable and have a potential to cause death."
     },    
 
     {
     "status": "Unsafe",
     "emoji": "🛑",
     "color": "#FF9722",
-    "definition": "There is considerable risk of physical harm when taking these combinations, they  should be avoided where possible.",
+    "definition": "There is considerable risk of physical harm when taking these combinations, they  should be avoided where possible."
     },
     {
     "status": "Caution",
     "emoji": "⚠️",
     "color": "#FFDC41",
-    "definition": "These combinations are not usually physically harmful, but may produce undesirable  effects, such as physical discomfort or overstimulation. Extreme use may cause physical health issues. Synergistic effects may be unpredictable. Care should be taken when choosing to use this combination.",
+    "definition": "These combinations are not usually physically harmful, but may produce undesirable  effects, such as physical discomfort or overstimulation. Extreme use may cause physical health issues. Synergistic effects may be unpredictable. Care should be taken when choosing to use this combination."
     },
     {
     "status": "Low Risk & Decrease",
     "emoji": "↘",
     "color": "#83E6FF",
-    "definition": "Effects are subtractive. The combination is unlikely to cause any adverse or  undesirable reaction beyond those that might ordinarily be expected from these drugs.",
+    "definition": "Effects are subtractive. The combination is unlikely to cause any adverse or  undesirable reaction beyond those that might ordinarily be expected from these drugs."
     },
     {
     "status": "Low Risk & No Synergy",
     "emoji": "-",
     "color": "#A4A4A4",
-    "definition": "Effects are additive. The combination is unlikely to cause any adverse or undesirable reaction beyond those that might ordinarily be expected from these drugs.",
+    "definition": "Effects are additive. The combination is unlikely to cause any adverse or undesirable reaction beyond those that might ordinarily be expected from these drugs."
     },
      {
     "status": "Low Risk & No Synergy",
     "emoji": "-",
     "color": "#A4A4A4",
-    "definition": "Effects are additive. The combination is unlikely to cause any adverse or undesirable reaction beyond those that might ordinarily be expected from these drugs.",
+    "definition": "Effects are additive. The combination is unlikely to cause any adverse or undesirable reaction beyond those that might ordinarily be expected from these drugs."
     },
     {
     "status": "Low Risk",
     "emoji": "-",
     "color": "#D9F3F1",
-    "definition": "Effects are additive. The combination is unlikely to cause any adverse or undesirable reaction beyond those that might ordinarily be expected from these drugs.",
+    "definition": "Effects are additive. The combination is unlikely to cause any adverse or undesirable reaction beyond those that might ordinarily be expected from these drugs."
     },
-    
+
     {
     "status": "Unknown",
     "emoji": "❓",
     "color": "#ECBEEB",
-    "definition": "Effects are unknown.",
+    "definition": "Effects are unknown."
     }
 ]
