@@ -1,0 +1,176 @@
+/* Reset body styles and apply default layout */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Gradient Header Styles */
+.page-header {
+    background: linear-gradient(to right, #157878, #43b581);
+    color: #efefef;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+/* Footer Styles */
+.site-footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 0.9rem;
+    margin-top: auto;
+}
+
+/* Main Content Area */
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Button Styles */
+.btn {
+    background: rgba(255, 255, 255, 0.2); /* Translucent white background */
+    color: #efefef; /* Text color */
+    border: 2px solid rgba(255, 255, 255, 0.5); /* Semi-transparent white border */
+    padding: 10px 20px; /* Button padding */
+    font-size: 1rem; /* Font size */
+    border-radius: 8px; /* Rounded corners */
+    text-decoration: none; /* Remove underline */
+    text-align: center;
+    display: inline-block; /* Makes it behave like a button */
+    cursor: pointer;
+    transition: background 0.3s ease, color 0.3s ease, transform 0.3s ease;
+}
+
+/* Button Hover Effects */
+.btn:hover {
+    background: rgba(255, 255, 255, 0.4); /* Slightly brighter background */
+    color: #ffffff; /* Make text pure white */
+    transform: scale(1.05); /* Slight hover scale */
+    border: 2px solid rgba(255, 255, 255, 0.7); /* Brighter border */
+}
+
+/* Button Focus Effect */
+.btn:focus {
+    outline: none; /* Remove outline */
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.8); /* Glow effect */
+}
+
+/* Button alignment within the header */
+.page-header .btn {
+    margin: 0 10px; /* Spacing between buttons */
+}
+
+
+
+
+
+
+
+
+
+/* Style for Button Cloud */
+.button-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    padding: 20px;
+}
+
+/* Button Styling */
+.drug-button {
+    background: rgba(67, 181, 129, 0.8); /* Translucent green background */
+    color: white;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.drug-button:hover {
+    background: rgba(67, 181, 129, 1); /* Brighter on hover */
+    transform: scale(1.05); /* Slight zoom effect */
+}
+
+/* Layout adjustments for the content area */
+main {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 2rem;
+    min-height: 60vh;
+}
+
+.drug-button.selected {
+    background: rgba(255, 165, 0, 0.8); /* Orange background for selected buttons */
+    border-color: rgba(255, 165, 0, 1); /* Solid border for selected buttons */
+}
+
+
+
+/* Container for selected buttons */
+.selected-container {
+    display: flex;
+    justify-content: center; /* Align buttons horizontally */
+    gap: 1rem; /* Add spacing between buttons */
+    position: absolute;
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Adjust for perfect centering */
+    z-index: 10; /* Ensure it appears above other elements */
+}
+
+
+
+
+
+
+
+/* Style for Reset Button */
+.reset-button {
+    background: rgba(255, 69, 0, 0.8); /* Bright red */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.3s ease;
+    position: fixed;
+    bottom: 120px; /* Position above the footer */
+    right: 45%;
+    z-index: 20;
+}
+
+.reset-button:hover {
+    background: rgba(255, 69, 0, 1); /* Brighter red on hover */
+    transform: scale(1.1);
+}
+
+/* Transition for Button Movements */
+.drug-button {
+    transition: all 0.5s ease;
+}
