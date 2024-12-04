@@ -1,5 +1,5 @@
 
-// FETCH AND INITALIZE DATASETS DEFINITIONS AND ADDITIONAL INFORMATION
+// FETCH AND INITALIZE DATASETS, DEFINITIONS AND ADDITIONAL INFORMATION
 
 
 
@@ -117,7 +117,7 @@ function fetchComboDefinitions() {
 
 
 
-
+// FUNCTIONS TO HANDLE BUTTONS, BUTTON LABELS AND SELECTIONS
 
 // Function to populate the button cloud
 function populateButtonCloud(drugs) {
@@ -207,7 +207,7 @@ function resetButtonCloud() {
 
 
 
-
+// FUNCTIONS THAT HANDLE TEST AND RESULT DISPLAYING
 
 
 // Function to run the test and fetch the danger level

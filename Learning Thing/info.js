@@ -1,3 +1,5 @@
+
+// function ensures that populateButtonCloud gets executed only after DrugLabels, DrugInfo & DrugClasses have been fetched and parsed
 document.addEventListener("DOMContentLoaded", () => {
     Promise.all([fetchDrugLabels(), fetchDrugInfo(), fetchDrugClasses()]).then(() => {
         populateButtonCloud(drugs); // Populate button cloud after loading all data
@@ -8,7 +10,8 @@ let drugs = [];
 let drugInfo = [];
 let drugClasses = {};
 
-// Fetch drug labels using SPARQL
+
+// Fetching drug labels
 async function fetchDrugLabels() {
     const sparqlEndpoint = "https://query.wikidata.org/sparql";
     const query = `
@@ -49,7 +52,8 @@ async function fetchDrugLabels() {
     }
 }
 
-// Fetch detailed drug info from drugs_info.json
+
+// Fetch info from drugs_info.json
 async function fetchDrugInfo() {
     try {
         const response = await fetch("drug_info.json");
@@ -60,7 +64,7 @@ async function fetchDrugInfo() {
     }
 }
 
-// Fetch drug classes using SPARQL
+// Fetching drug classes
 async function fetchDrugClasses() {
     const sparqlEndpoint = "https://query.wikidata.org/sparql";
     const query = `
