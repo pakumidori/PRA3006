@@ -3,7 +3,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     color: #333;
-    background-color: #f4f4f4;
+    background-color: #f9fff8;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -37,6 +37,7 @@ main {
     text-align: center;
 }
 
+/* Sub-header styling */
 .info-section h2 {
     font-size: 1.4rem;
     color: #555;
@@ -107,7 +108,7 @@ main {
 /* Button Styling */
 .drug-button {
     background: rgba(67, 181, 129, 0.8); /* Translucent green background */
-    color: white;
+    color: rgb(255, 255, 255);
     border: 2px solid rgba(255, 255, 255, 0.5);
     padding: 10px 20px;
     font-size: 1rem;
@@ -195,8 +196,6 @@ main {
 
 
 
-
-
 .interaction-result {
     margin-top: 20px;
     padding: 15px;
@@ -223,4 +222,23 @@ main {
     border-radius: 8px; /* Rounded corners */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
     z-index: 1000; /* Ensure it appears above other content */
+}
+
+
+
+
+
+
+
+
+/* drug information panel styling */
+.drug-display {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    max-width: 600px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }

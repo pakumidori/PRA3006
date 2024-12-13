@@ -1,17 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Metadata and Page Configuration -->
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Checker Application</title>
-    <link rel="stylesheet" href="style.css"> <!-- Link to external CSS -->
-</head>
+
+    <!-- Link to the External CSS File -->
+    <!-- This stylesheet contains the styles for the header, footer, buttons, and overall page layout -->
+
+    <link rel="stylesheet" href="style.css"></head>
 <body>
+
     <!-- Header Section -->
+    <!-- The header serves as the main banner of the page and contains the project title -->
+
     <header class="page-header">
         <h1>Checker Application</h1>
-        <!-- Home Button -->
+    
+        <!-- Navigation Buttons -->
+        <!-- These buttons allow the user to navigate to different sections of the project -->
+
         <a href="index.html" class="btn">Home</a>
+        <a href="info.html" class="btn">Information</a>
     </header>
 
     <!-- Main Content Section -->
@@ -21,15 +33,18 @@
             <!-- Buttons will be dynamically generated here -->
     </main>
 
-    <!-- Reset and Test Buttons -->
+    <!-- Reset Button -->
     <div id="actionButtons" class="action-buttons" style="display: none;"> <!-- there used to be a test button as well, which is why there is a whole action button class -->
     <button id="resetButton" class="reset-button" onclick="resetButtonCloud()">Reset</button>
     </div>
 
     <div id="dangerLevelDisplay" style="display: none;"></div>
+
     <!-- Footer Section -->
+    <!-- The footer contains project information and copyright notice -->
+
     <footer class="site-footer">
-        <p> Drug Checker Project.</p>
+        <p> 2024 Drug Checker Project - PRA3006</p>
     </footer>
 
     <!-- Link to external JavaScript -->

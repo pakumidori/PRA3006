@@ -3,18 +3,26 @@
 
 
 
-let drugsData = []; // Variable to hold drug data
+let drugsData = []; // Array to hold drug data
 let selectedDrugs = []; // Array to track selected buttons
 let drugs = []; // Array to store drug labels
+let comboDefinitions = []; // Array for combo definitions
 
-console.log("Drugs Data:", drugsData);
+console.log("Drugs Data:", drugsData); // Debugging log for drugsData
+
+
+// Ensure the DOM is fully loaded before running scripts
 
 document.addEventListener("DOMContentLoaded", () => {
+    // Fetch all required datasets and populate the button cloud after loading
+
     Promise.all([fetchDrugLabels(), fetchDrugsData(), fetchComboDefinitions()]).then(() => {
         populateButtonCloud(drugs); // Populate button cloud after loading all data
     });
 });
 
+
+// Fetch drug labels using SPARQL query
 
 function fetchDrugLabels() {
     const sparqlEndpoint = "https://query.wikidata.org/sparql";
@@ -56,7 +64,7 @@ function fetchDrugLabels() {
             console.log("Fetched drug labels:", drugs); // Debugging log
         })
         .catch(error => {
-            console.error("SPARQL Query Error:", error);
+            console.error("SPARQL Query Error:", error); // Log errors
         });
 }
 
@@ -66,36 +74,26 @@ function fetchDrugsData() {
     return fetch("drugs.json")
         .then(response => response.json())
         .then(data => {
-            drugsData = data; // Populate drugsData
+            drugsData = data; // Populate drugsData with the JSON content
             console.log("Fetched drugs.json data:", drugsData); // Debugging log
         })
         .catch(error => {
-            console.error("Error fetching drugs.json:", error);
+            console.error("Error fetching drugs.json:", error); // Log errors
         });
 }
 
 
-// make data caseinsensitive
 
-const result = drugsData.find(
-    entry =>
-        entry.Drug.toLowerCase() === drug.toLowerCase() &&
-        entry.Interacting_Drug.toLowerCase() === interactingDrug.toLowerCase()
-);
-
-
-
-
-let comboDefinitions = [];
+// Fetch combo definitions from combo_definitions.json
 
 function fetchComboDefinitions() {
     return fetch("combo_definitions.json")
         .then(response => response.json())
         .then(data => {
-            comboDefinitions = data;
-            console.log("Combo Definitions Loaded:", comboDefinitions);
+            comboDefinitions = data; // Populate comboDefinitions
+            console.log("Combo Definitions Loaded:", comboDefinitions); // Debugging log
         })
-        .catch(error => console.error("Error fetching combo_definitions.json:", error));
+        .catch(error => console.error("Error fetching combo_definitions.json:", error)); // Log errors
 }
 
 
@@ -119,29 +117,33 @@ function fetchComboDefinitions() {
 
 // FUNCTIONS TO HANDLE BUTTONS, BUTTON LABELS AND SELECTIONS
 
-// Function to populate the button cloud
+// Function to populate the button cloud dynamically
 function populateButtonCloud(drugs) {
-    const buttonCloud = document.getElementById("buttonCloud");
-    buttonCloud.innerHTML = "";
+    const buttonCloud = document.getElementById("buttonCloud"); // Get the button cloud container
+    buttonCloud.innerHTML = ""; // Clear existing content
+
+    // Create and add a button for each drug
 
     drugs.forEach(drug => {
         const button = document.createElement("button");
-        button.textContent = drug;
-        button.classList.add("drug-button");
-        button.addEventListener("click", () => handleButtonClick(button, drug));
-        buttonCloud.appendChild(button);
+        button.textContent = drug; // Set button text to drug label
+        button.classList.add("drug-button"); // Apply CSS class for styling
+        button.addEventListener("click", () => handleButtonClick(button, drug)); // Add click event listener
+        buttonCloud.appendChild(button); // Append the button to the cloud
     });
 }
 
 // Function to handle button clicks
 function handleButtonClick(button, drug) {
+    // Toggle the selected state of the button
+
     if (button.classList.contains("selected")) {
-        button.classList.remove("selected");
-        selectedDrugs = selectedDrugs.filter(selectedDrug => selectedDrug !== drug);
+        button.classList.remove("selected"); // Deselect button
+        selectedDrugs = selectedDrugs.filter(selectedDrug => selectedDrug !== drug); // Remove from selected list
     } else {
         if (selectedDrugs.length < 2) {
-            button.classList.add("selected");
-            selectedDrugs.push(drug);
+            button.classList.add("selected"); // Select button
+            selectedDrugs.push(drug); // Add to selected list
         } else {
             alert("You can only select up to two drugs. Deselect one to choose another.");
 
@@ -150,17 +152,16 @@ function handleButtonClick(button, drug) {
 
     // When exactly two buttons are selected
     if (selectedDrugs.length === 2) {
-        showSelectedButtons();
-        runTest();
+        showSelectedButtons(); // Move selected buttons to their container
+        runTest(); // Run the interaction test
     }
 }
 
 // Function to display selected buttons and hide others
 function showSelectedButtons() {
-    const allButtons = document.querySelectorAll(".drug-button");
-    const actionButtons = document.getElementById("actionButtons");
+    const allButtons = document.querySelectorAll(".drug-button"); 
+    const actionButtons = document.getElementById("actionButtons"); // Container for action buttons
 
-    // Hide all non-selected buttons
     allButtons.forEach(button => {
         if (!button.classList.contains("selected")) {
             button.style.display = "none"; // Hide non-selected buttons
@@ -175,9 +176,10 @@ function showSelectedButtons() {
 
     // Create a container for selected buttons
     const selectedContainer = document.createElement("div");
-    selectedContainer.classList.add("selected-container");
+    selectedContainer.classList.add("selected-container"); // CSS styling for alignment
+    
     selectedButtons.forEach(button => {
-        selectedContainer.appendChild(button);
+        selectedContainer.appendChild(button); // Add selected buttons to container
     });
 
     // Clear buttonCloud and append the selectedContainer and action buttons
@@ -212,7 +214,7 @@ function resetButtonCloud() {
 
 // Function to run the test and fetch the danger level
 function runTest() {
-    const dangerLevelDisplay = document.getElementById("dangerLevelDisplay");
+    const dangerLevelDisplay = document.getElementById("dangerLevelDisplay"); // Get the display container
 
 
     // Ensure two drugs are selected
@@ -260,6 +262,8 @@ if (!result) {
     dangerLevelDisplay.style.display = "block";    
     dangerLevelDisplay.innerHTML = result
     
+    // Find the definition for the result's danger level
+
     const definition = comboDefinitions.find(
         def => def.status.toLowerCase() === result.Danger_Level.toLowerCase()
     );
@@ -275,8 +279,4 @@ if (!result) {
         `;
 
     }
-
-
-
-
 }
